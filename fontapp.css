@@ -1,0 +1,18 @@
+{
+
+ 
+    font-weight: bold;  
+    font-weight: lighter; /*for font size ,ex:font-weight: 100 in this way also we can give weight;*/
+   
+    text-decoration: line-through; /* for line-through*/
+    text-decoration: underline wavy;    /* for underline with wavy line*/
+    text-decoration: blue overline;     /* for overline with color */
+    
+    line-height:2 ;  /*for paragraphs */
+    letter-spacing: 10px; /*for spacing between letters*/
+
+    font-size: 80px;  /*for font size*/
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /*font type*/
+    
+}
